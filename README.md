@@ -4,6 +4,8 @@ Fully built on open-source, complete 3D rendering engine built in Java using nat
 
 Included is a demo rendition of the opening scene from The Wind Waker.
 
+![Rendering Screenshot](https://i.imgur.com/1HRdqou.png)
+
 ## Features
 
 Support for 
