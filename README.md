@@ -23,6 +23,8 @@ Compatible with Java 8 for the following platforms:
 * Linux (64 bit) 
 * OSX (64 bit).
 
+Demo includes movable camera (W,A,S,D,Space,C) and particle demonstration (num 1,num 2)
+
 **Compiling**
 
 Win - `javac -cp .;jar/* *.java`
