@@ -1,4 +1,4 @@
-# java-opengl
+# Wind3D: An open-source Java 3D Engine
 
 Fully built on open-source, complete 3D rendering engine built in Java using native OpenGL, OpenAL and OpenCL APIs. 
 
