@@ -1,6 +1,6 @@
 # Wind3D: An Open-Source Java 3D Engine
 
-Fully built on open-source, complete 3D rendering engine built in Java using native OpenGL, OpenAL and OpenCL APIs. 
+Fully built on open-source APIs. Complete 3D rendering engine built in Java using native OpenGL, OpenAL and OpenCL APIs. 
 
 Included is a demo rendition of the opening scene from The Wind Waker.
 
